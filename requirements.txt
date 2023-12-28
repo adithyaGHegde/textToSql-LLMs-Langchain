@@ -9,5 +9,6 @@ pymysql
 sentence-transformers
 pysqlite3-binary
 chromadb
-mysqlclient
+mysqlclient==2.1.1
+pkg-config
 SQLAlchemy
